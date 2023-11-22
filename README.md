@@ -32,4 +32,5 @@ Logs will be saved of every users action, open the logs.txt file to read the log
 ![example](https://raw.githubusercontent.com/fin-github/keyauth/main/Screenshot%202023-11-22%20175427.png)
 ![image](https://github.com/fin-github/keyauth/assets/70870542/1995939b-ce3d-4f0b-9b1c-d58383696d26)
 ![image](https://github.com/fin-github/keyauth/assets/70870542/d4d094b1-268c-46b3-8281-bd7c593bc1c4)
+![image](https://github.com/fin-github/keyauth/assets/70870542/9a38aabd-430c-462d-a524-3ce6f747ec3b)
 
