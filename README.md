@@ -29,3 +29,4 @@ Logs will be saved of every users action, open the logs.txt file to read the log
 
 
 # Examples
+![example](https://raw.githubusercontent.com/fin-github/keyauth/main/Screenshot%202023-11-22%20175427.png)
