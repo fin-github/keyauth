@@ -26,3 +26,6 @@ This will help you get the bot ready for use.
 
 # Logging
 Logs will be saved of every users action, open the logs.txt file to read the logs.
+
+
+# Examples
